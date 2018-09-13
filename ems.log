@@ -1,0 +1,240 @@
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-INFO -root      :Leave details modified successfully:
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-INFO -root      :Leave details modified successfully:
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-ERROR-root      :Approval for leave failed 
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-ERROR-root      :Approval for leave failed 
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-ERROR-root      :Approval for leave failed 
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-ERROR-root      :Approval for leave failed 
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-ERROR-root      :Approval for leave failed 
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Record Found Successfully
+2018-04-21-main-INFO -root      :Leave details added successfully:
+2018-04-21-main-INFO -root      :Leave details modified successfully:
+2018-04-24-main-INFO -root      :Record Not Found Successfully
+2018-04-24-main-INFO -root      :Record Not Found Successfully
+2018-04-24-main-INFO -root      :Record Not Found Successfully
+2018-04-24-main-INFO -root      :Record Not Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Leave details added successfully:
+2018-04-24-main-ERROR-root      :Approval for leave failed 
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Leave details added successfully:
+2018-04-24-main-INFO -root      :Leave details modified successfully:
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-INFO -root      :Leave details added successfully:
+2018-04-24-main-INFO -root      :Leave details modified successfully:
+2018-04-24-main-INFO -root      :Record Found Successfully
+2018-04-24-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Employee Date of Birth can't be empty and enter a valid date.Age should be between 18 and 58
+]
+	at com.cg.ems.service.EmployeeServiceImpl.validateEmployee(EmployeeServiceImpl.java:155)
+	at com.cg.ems.ui.AdminConsole.populateEmployee(AdminConsole.java:296)
+	at com.cg.ems.ui.AdminConsole.addEmployee(AdminConsole.java:87)
+	at com.cg.ems.ui.AdminConsole.start(AdminConsole.java:58)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:43)
+2018-04-24-main-INFO -root      :Leave details modified successfully:
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Leave details added successfully:
+2018-04-25-main-INFO -root      :Leave details modified successfully:
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Leave details added successfully:
+2018-04-25-main-INFO -root      :Leave details modified successfully:
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Leave details added successfully:
+2018-04-25-main-ERROR-root      :ORA-02290: check constraint (SYSTEM.SYS_C007868) violated
+
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Record Found Successfully
+2018-04-25-main-INFO -root      :Leave details added successfully:
+2018-04-25-main-INFO -root      :Leave details modified successfully:
+2018-08-25-main-INFO -root      :Record Not Found Successfully
+2018-08-25-main-INFO -root      :Leave details added successfully:
+2018-09-01-main-INFO -root      :Leave details added successfully:
+2018-09-04-main-INFO -root      :Leave details added successfully:
+2018-09-07-main-INFO -root      :Record Found Successfully
+2018-09-07-main-INFO -root      :Record Found Successfully
+2018-09-07-main-INFO -root      :Record Found Successfully
+2018-09-07-main-ERROR-root      :Approval for leave failed 
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-07-main-INFO -root      :Employee details added successfully:
+2018-09-07-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.SYS_C004147) violated
+
+2018-09-07-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.UK_C6TFO1025QEUKF387OLR50PO9) violated
+
+2018-09-07-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.UK_C6TFO1025QEUKF387OLR50PO9) violated
+
+2018-09-07-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Employee First Name can't be empty and start with Upper case and should contain only alphabets
+, 
+ Employee Last Name can't be empty and start with Upper case and should contain only alphabets
+, 
+ Employee Salary should be numeric and should match the employee grade
+, 
+ Contact Number should be alpha numeric and 10 digits 
+]
+	at com.cg.ems.service.EmployeeServiceImpl.validateEmployee(EmployeeServiceImpl.java:155)
+	at com.cg.ems.ui.AdminConsole.populateEmployee(AdminConsole.java:296)
+	at com.cg.ems.ui.AdminConsole.addEmployee(AdminConsole.java:87)
+	at com.cg.ems.ui.AdminConsole.start(AdminConsole.java:58)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:43)
+2018-09-07-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Employee Date of Birth can't be empty and enter a valid date.Age should be between 18 and 58
+, 
+ Employee Salary should be numeric and should match the employee grade
+]
+	at com.cg.ems.service.EmployeeServiceImpl.validateEmployee(EmployeeServiceImpl.java:155)
+	at com.cg.ems.ui.AdminConsole.populateEmployee(AdminConsole.java:296)
+	at com.cg.ems.ui.AdminConsole.addEmployee(AdminConsole.java:87)
+	at com.cg.ems.ui.AdminConsole.start(AdminConsole.java:58)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:43)
+2018-09-07-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Employee Date of Birth can't be empty and enter a valid date.Age should be between 18 and 58
+, 
+ Employee Salary should be numeric and should match the employee grade
+]
+	at com.cg.ems.service.EmployeeServiceImpl.validateEmployee(EmployeeServiceImpl.java:155)
+	at com.cg.ems.ui.AdminConsole.populateEmployee(AdminConsole.java:296)
+	at com.cg.ems.ui.AdminConsole.addEmployee(AdminConsole.java:87)
+	at com.cg.ems.ui.AdminConsole.start(AdminConsole.java:58)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:43)
+2018-09-07-main-INFO -root      :Record Found Successfully
+2018-09-07-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Leave duration must not exceed remaining leaves 
+]
+	at com.cg.ems.service.LeaveServiceImpl.validateLeave(LeaveServiceImpl.java:65)
+	at com.cg.ems.ui.UserConsole.applyLeave(UserConsole.java:117)
+	at com.cg.ems.ui.UserConsole.start(UserConsole.java:60)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:46)
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-07-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-08-main-ERROR-root      :ORA-00001: unique constraint (SYSTEM.SYS_C004147) violated
+
+2018-09-08-main-INFO -root      :Employee details added successfully:
+2018-09-08-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-08-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-08-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-08-main-ERROR-root      :ORA-00947: not enough values
+
+2018-09-08-main-ERROR-root      :Invalid column index
+2018-09-08-main-INFO -root      :Leave details added successfully:
+2018-09-08-main-INFO -root      :Leave details added successfully:
+2018-09-08-main-INFO -root      :Leave details modified successfully:
+2018-09-08-main-ERROR-root      :Updation failed 
+2018-09-08-main-ERROR-root      :Updation failed 
+2018-09-08-main-ERROR-root      :Updation failed 
+2018-09-08-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Employee Id can't be empty and should contain 6 digits with no decimals 
+, 
+ Employee First Name can't be empty and start with Upper case and should contain only alphabets
+, 
+ Employee Last Name can't be empty and start with Upper case and should contain only alphabets
+, 
+ Employee Date of Birth can't be empty and enter a valid date.Age should be between 18 and 58
+, 
+ Employee Salary should be numeric and should match the employee grade
+, 
+ Contact Number should be alpha numeric and 10 digits 
+]
+	at com.cg.ems.service.EmployeeServiceImpl.validateEmployee(EmployeeServiceImpl.java:155)
+	at com.cg.ems.ui.AdminConsole.populateEmployee(AdminConsole.java:354)
+	at com.cg.ems.ui.AdminConsole.addEmployee(AdminConsole.java:87)
+	at com.cg.ems.ui.AdminConsole.start(AdminConsole.java:58)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:43)
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Leave details modified successfully:
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Not Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-ERROR-root      :exception occured
+com.cg.ems.exception.EMSException: [
+ Leave duration must not exceed remaining leaves 
+]
+	at com.cg.ems.service.LeaveServiceImpl.validateLeave(LeaveServiceImpl.java:65)
+	at com.cg.ems.ui.UserConsole.applyLeave(UserConsole.java:117)
+	at com.cg.ems.ui.UserConsole.start(UserConsole.java:60)
+	at com.cg.ems.ui.MainUI.main(MainUI.java:46)
+2018-09-13-main-INFO -root      :Leave details added successfully:
+2018-09-13-main-INFO -root      :Employee details added successfully:
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Record Found Successfully
+2018-09-13-main-INFO -root      :Employee details added successfully:
+2018-09-13-main-INFO -root      :Employee details updated successfully:
